@@ -7872,26 +7872,32 @@
     ]
   },
   "packageFolders": {
-    "/Users/hieu_dat/.nuget/packages/": {}
+    "C:\\Users\\hieud\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hieu_dat/Workplace/Dev/ASP.NET/ExamWebApp/ExamWebApp/ExamWebApp.csproj",
+      "projectUniqueName": "D:\\Workplace\\Dev\\GitHub\\EduVision\\ExamWebApp\\ExamWebApp\\ExamWebApp\\ExamWebApp.csproj",
       "projectName": "ExamWebApp",
-      "projectPath": "/Users/hieu_dat/Workplace/Dev/ASP.NET/ExamWebApp/ExamWebApp/ExamWebApp.csproj",
-      "packagesPath": "/Users/hieu_dat/.nuget/packages/",
-      "outputPath": "/Users/hieu_dat/Workplace/Dev/ASP.NET/ExamWebApp/ExamWebApp/obj/",
+      "projectPath": "D:\\Workplace\\Dev\\GitHub\\EduVision\\ExamWebApp\\ExamWebApp\\ExamWebApp\\ExamWebApp.csproj",
+      "packagesPath": "C:\\Users\\hieud\\.nuget\\packages\\",
+      "outputPath": "D:\\Workplace\\Dev\\GitHub\\EduVision\\ExamWebApp\\ExamWebApp\\ExamWebApp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
+      ],
       "configFilePaths": [
-        "/Users/hieu_dat/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\hieud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
-        "/usr/local/share/dotnet/sdk/7.0.310/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8000,7 +8006,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
