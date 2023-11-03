@@ -469,8 +469,24 @@
       "PackagePath": "staticwebassets/Site.css"
     },
     {
+      "Id": "/Users/hieu_dat/Workplace/Dev/ASP.NET/ExamWebApp/ExamWebApp/wwwroot/UploadedFiles/ERRORS__C0h3dgZXDERDJVZSgpthQ.jpeg",
+      "PackagePath": "staticwebassets/UploadedFiles/ERRORS__C0h3dgZXDERDJVZSgpthQ.jpeg"
+    },
+    {
+      "Id": "/Users/hieu_dat/Workplace/Dev/ASP.NET/ExamWebApp/ExamWebApp/wwwroot/UploadedFiles/SOFTWAREDEVELOPERLABELbyofficegeekshop_ZVdYxyWOk0mA3yQJ0idg.jpeg",
+      "PackagePath": "staticwebassets/UploadedFiles/SOFTWAREDEVELOPERLABELbyofficegeekshop_ZVdYxyWOk0mA3yQJ0idg.jpeg"
+    },
+    {
       "Id": "/Users/hieu_dat/Workplace/Dev/ASP.NET/ExamWebApp/ExamWebApp/wwwroot/UploadedFiles/dummy.jpg",
       "PackagePath": "staticwebassets/UploadedFiles/dummy.jpg"
+    },
+    {
+      "Id": "/Users/hieu_dat/Workplace/Dev/ASP.NET/ExamWebApp/ExamWebApp/wwwroot/UploadedFiles/jessica-lam-oB48_OfrXlU-unsplash_g8zZqES08cTb1JiljBA.JPG",
+      "PackagePath": "staticwebassets/UploadedFiles/jessica-lam-oB48_OfrXlU-unsplash_g8zZqES08cTb1JiljBA.JPG"
+    },
+    {
+      "Id": "/Users/hieu_dat/Workplace/Dev/ASP.NET/ExamWebApp/ExamWebApp/wwwroot/UploadedFiles/jessica-lam-oB48_OfrXlU-unsplash_szzooAAMUiDdtzH95qH6w.JPG",
+      "PackagePath": "staticwebassets/UploadedFiles/jessica-lam-oB48_OfrXlU-unsplash_szzooAAMUiDdtzH95qH6w.JPG"
     },
     {
       "Id": "/Users/hieu_dat/Workplace/Dev/ASP.NET/ExamWebApp/ExamWebApp/wwwroot/all.min.css",
