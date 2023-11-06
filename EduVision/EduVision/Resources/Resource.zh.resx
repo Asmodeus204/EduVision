@@ -664,7 +664,7 @@
     <value>姓名</value>
   </data>
   <data name="NetStarter" xml:space="preserve">
-    <value>ExamEase</value>
+    <value>EduVision</value>
   </data>
   <data name="NewPassword" xml:space="preserve">
     <value>新密码</value>
@@ -1054,7 +1054,7 @@
     <value>花费时间</value>
   </data>
   <data name="ToNetStarter" xml:space="preserve">
-    <value>至 ExamEase</value>
+    <value>至 EduVision</value>
   </data>
   <data name="TopQuestionsAnsweredWrongly" xml:space="preserve">
     <value>错误回答的前 5 个问题</value>

@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{EE202216-A606-479A-A343-F3E03F22E802}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.EduVision PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EduVision/Startup.cs">
+    <Files>
+      <File FileName="EduVision/Views/Home/Index.cshtml" Line="147" Column="53" />
+      <File FileName="EduVision/Views/Home/Edit.cshtml" Line="1" Column="1" />
+      <File FileName="EduVision/Program.cs" Line="1" Column="1" />
+      <File FileName="EduVision/Views/Home/UnauthorizedTwo.cshtml" Line="1" Column="1" />
+      <File FileName="EduVision/Views/Home/UnauthorizedOne.cshtml" Line="1" Column="1" />
+      <File FileName="EduVision/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="EduVision/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="EduVision/Views/Shared/_Layout.cshtml" Line="10" Column="36" />
+      <File FileName="EduVision/Views/Shared/_Layout.cshtml.css" Line="1" Column="1" />
+      <File FileName="EduVision/Views/Shared/_LayoutAfterLogin.cshtml" Line="1" Column="1" />
+      <File FileName="EduVision/Views/Shared/_ConfirmationPrompt.cshtml" Line="1" Column="1" />
+      <File FileName="EduVision/Views/Shared/_FooterBeforeLogin.cshtml" Line="1" Column="1" />
+      <File FileName="EduVision/Views/Shared/_LanguageChoices.cshtml" Line="4" Column="119" />
+      <File FileName="EduVision/Views/Shared/_LoginPartial.cshtml" Line="1" Column="1" />
+      <File FileName="EduVision/Views/Shared/_Notification.cshtml" Line="1" Column="1" />
+      <File FileName="EduVision/Views/Shared/_TableLengthDropDown.cshtml" Line="1" Column="1" />
+      <File FileName="EduVision/Views/Shared/Error.cshtml" Line="1" Column="1" />
+      <File FileName="EduVision/Views/Shared/Lockout.cshtml" Line="1" Column="1" />
+      <File FileName="EduVision/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="EduVision/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="EduVision/Startup.cs" Line="1" Column="1" />
+      <File FileName="EduVision/appsettings.json" Line="26" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EduVision">
+            <Node name="EduVision">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

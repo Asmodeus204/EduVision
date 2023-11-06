@@ -466,7 +466,7 @@ namespace EduVision.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ExamEase Contains Full Essential Features To Conduct An Exam..
+        ///   Looks up a localized string similar to EduVision Contains Full Essential Features To Conduct An Exam..
         /// </summary>
         public static string FeaturesDescription {
             get {
@@ -538,7 +538,7 @@ namespace EduVision.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ExamEase is an online exam system that delivers exam management, question bank management, automated grading, an analytical dashboard, and more..
+        ///   Looks up a localized string similar to EduVision is an online exam system that delivers exam management, question bank management, automated grading, an analytical dashboard, and more..
         /// </summary>
         public static string HomeDescription {
             get {
@@ -583,7 +583,7 @@ namespace EduVision.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ExamEase FAQ Articles.
+        ///   Looks up a localized string similar to EduVision FAQ Articles.
         /// </summary>
         public static string NetStarterFAQArticles {
             get {
@@ -682,7 +682,7 @@ namespace EduVision.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to To ExamEase.
+        ///   Looks up a localized string similar to To EduVision.
         /// </summary>
         public static string ToNetStarter {
             get {
@@ -727,7 +727,7 @@ namespace EduVision.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ExamEase.
+        ///   Looks up a localized string similar to EduVision.
         /// </summary>
         public static string WebAppTitle {
             get {
@@ -808,7 +808,7 @@ namespace EduVision.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Why ExamEase.
+        ///   Looks up a localized string similar to Why EduVision.
         /// </summary>
         public static string WhyUsTitle {
             get {

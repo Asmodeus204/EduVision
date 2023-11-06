@@ -253,7 +253,7 @@
     <value>سمات</value>
   </data>
   <data name="FeaturesDescription" xml:space="preserve">
-    <value>يحتوي ExamEase على الميزات الأساسية الكاملة لإجراء الاختبار.</value>
+    <value>يحتوي EduVision على الميزات الأساسية الكاملة لإجراء الاختبار.</value>
   </data>
   <data name="Fillyourdetailstoregister" xml:space="preserve">
     <value>املأ بياناتك للتسجيل.</value>
@@ -277,7 +277,7 @@
     <value>بيت</value>
   </data>
   <data name="HomeDescription" xml:space="preserve">
-    <value>ExamEase هو نظام اختبار عبر الإنترنت يوفر إدارة الاختبارات وإدارة بنك الأسئلة والتصنيف الآلي ولوحة القيادة التحليلية والمزيد.</value>
+    <value>EduVision هو نظام اختبار عبر الإنترنت يوفر إدارة الاختبارات وإدارة بنك الأسئلة والتصنيف الآلي ولوحة القيادة التحليلية والمزيد.</value>
   </data>
   <data name="HomeTitleOne" xml:space="preserve">
     <value>أحدث ثورة في طريقة تقييمك لطلابك</value>
@@ -292,7 +292,7 @@
     <value>تسجيل الدخول</value>
   </data>
   <data name="NetStarterFAQArticles" xml:space="preserve">
-    <value>مقالات الأسئلة الشائعة حول ExamEase</value>
+    <value>مقالات الأسئلة الشائعة حول EduVision</value>
   </data>
   <data name="OurProducts" xml:space="preserve">
     <value>منتجاتنا</value>
@@ -325,7 +325,7 @@
     <value>المقال التالي</value>
   </data>
   <data name="ToNetStarter" xml:space="preserve">
-    <value>إلى ExamEase</value>
+    <value>إلى EduVision</value>
   </data>
   <data name="UploadFile" xml:space="preserve">
     <value>رفع ملف</value>
@@ -340,7 +340,7 @@
     <value>عرض المزيد</value>
   </data>
   <data name="WebAppTitle" xml:space="preserve">
-    <value>ExamEase</value>
+    <value>EduVision</value>
   </data>
   <data name="WhatyougetDescription" xml:space="preserve">
     <value>بعد الشراء ، ستحصل على ملف مضغوط يحتوي على ما يلي</value>
@@ -367,6 +367,6 @@
     <value>ترتيب الأسئلة عشوائيًا ، وجدولة تاريخ بدء الاختبار ووقته ، وتخزين بنك الأسئلة الخاص بك ، والمزيد.</value>
   </data>
   <data name="WhyUsTitle" xml:space="preserve">
-    <value>لماذا ExamEase</value>
+    <value>لماذا EduVision</value>
   </data>
 </root>

@@ -154,7 +154,7 @@
 
 <!-- ======= offcanvas Sidebar for Mobile phone device ======= -->
 <aside id="offcanvas" class="offcanvas offcanvas-start" tabindex="-1">
-    <div class="brandname ps-3">ExamEase</div>
+    <div class="brandname ps-3">EduVision</div>
     <ul class="sidebar-nav" id="sidebar-nav">
         <li class="nav-item mt-3"><a class="nav-link @(ViewContext.RouteData.Values["Controller"].ToString().ToLower() == "dashboard" && ViewContext.RouteData.Values["Action"].ToString().ToLower() == "index" ? "active" : "")" href="@Url.Action("index","dashboard")"><i class="fa-solid fa-chart-pie"></i><span>@Resource.Dashboard</span></a></li>
         @if (User.IsInRole("System Admin"))

@@ -2869,7 +2869,7 @@ namespace EduVision.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to To ExamEase.
+        ///   Looks up a localized string similar to To EduVision.
         /// </summary>
         public static string ToNetStarter {
             get {

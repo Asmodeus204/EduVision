@@ -253,7 +253,7 @@
     <value>ciri-ciri</value>
   </data>
   <data name="FeaturesDescription" xml:space="preserve">
-    <value>ExamEase Mengandungi Ciri-ciri Penting Penuh Untuk Menjalankan Peperiksaan.</value>
+    <value>EduVision Mengandungi Ciri-ciri Penting Penuh Untuk Menjalankan Peperiksaan.</value>
   </data>
   <data name="Fillyourdetailstoregister" xml:space="preserve">
     <value>Isikan butiran anda untuk mendaftar.</value>
@@ -277,7 +277,7 @@
     <value>Halaman Utama</value>
   </data>
   <data name="HomeDescription" xml:space="preserve">
-    <value>ExamEase ialah sistem peperiksaan dalam talian yang menyampaikan pengurusan peperiksaan, pengurusan bank soalan, penggredan automatik, papan pemuka analisis dan banyak lagi.</value>
+    <value>EduVision ialah sistem peperiksaan dalam talian yang menyampaikan pengurusan peperiksaan, pengurusan bank soalan, penggredan automatik, papan pemuka analisis dan banyak lagi.</value>
   </data>
   <data name="HomeTitleOne" xml:space="preserve">
     <value>Revolusikan cara anda menilai pelajar anda</value>
@@ -292,7 +292,7 @@
     <value>Log masuk</value>
   </data>
   <data name="NetStarterFAQArticles" xml:space="preserve">
-    <value>Artikel Soalan Lazim ExamEase</value>
+    <value>Artikel Soalan Lazim EduVision</value>
   </data>
   <data name="OurProducts" xml:space="preserve">
     <value>Produk kami</value>
@@ -325,7 +325,7 @@
     <value>artikel berikut</value>
   </data>
   <data name="ToNetStarter" xml:space="preserve">
-    <value>Untuk ExamEase</value>
+    <value>Untuk EduVision</value>
   </data>
   <data name="UploadFile" xml:space="preserve">
     <value>Muat Naik Fail</value>
@@ -340,7 +340,7 @@
     <value>Lihat Lagi</value>
   </data>
   <data name="WebAppTitle" xml:space="preserve">
-    <value>ExamEase</value>
+    <value>EduVision</value>
   </data>
   <data name="WhatyougetDescription" xml:space="preserve">
     <value>Selepas Membeli, Anda Akan Mendapat Fail Zip Yang Mengandungi Perkara Berikut</value>
@@ -367,6 +367,6 @@
     <value>Merawak Susunan Soalan, Menjadualkan Tarikh &amp; Masa Mula Peperiksaan, Menyimpan Bank Soalan Anda, Dan Banyak Lagi.</value>
   </data>
   <data name="WhyUsTitle" xml:space="preserve">
-    <value>Mengapa ExamEase</value>
+    <value>Mengapa EduVision</value>
   </data>
 </root>

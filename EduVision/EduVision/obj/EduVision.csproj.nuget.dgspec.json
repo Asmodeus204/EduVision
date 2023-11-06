@@ -1,32 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Workplace\\Dev\\GitHub\\EduVision\\EduVision\\EduVision\\EduVision.csproj": {}
+    "/Users/hieu_dat/Workplace/Dev/GitHub/EduVision/EduVision/EduVision/EduVision.csproj": {}
   },
   "projects": {
-    "D:\\Workplace\\Dev\\GitHub\\EduVision\\EduVision\\EduVision\\EduVision.csproj": {
+    "/Users/hieu_dat/Workplace/Dev/GitHub/EduVision/EduVision/EduVision/EduVision.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workplace\\Dev\\GitHub\\EduVision\\EduVision\\EduVision\\EduVision.csproj",
+        "projectUniqueName": "/Users/hieu_dat/Workplace/Dev/GitHub/EduVision/EduVision/EduVision/EduVision.csproj",
         "projectName": "EduVision",
-        "projectPath": "D:\\Workplace\\Dev\\GitHub\\EduVision\\EduVision\\EduVision\\EduVision.csproj",
-        "packagesPath": "C:\\Users\\hieud\\.nuget\\packages\\",
-        "outputPath": "D:\\Workplace\\Dev\\GitHub\\EduVision\\EduVision\\EduVision\\obj\\",
+        "projectPath": "/Users/hieu_dat/Workplace/Dev/GitHub/EduVision/EduVision/EduVision/EduVision.csproj",
+        "packagesPath": "/Users/hieu_dat/.nuget/packages/",
+        "outputPath": "/Users/hieu_dat/Workplace/Dev/GitHub/EduVision/EduVision/EduVision/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\hieud\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/hieu_dat/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "/usr/local/share/dotnet/library-packs": {},
+          "/usr/local/share/dotnet/sdk/7.0.310/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -135,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
         }
       }
     }
